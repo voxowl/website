@@ -4,9 +4,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: website
+    container_name: voxowl-com
     restart: always
-    ports:
-      - 80:80
     stdin_open: true
     tty: true

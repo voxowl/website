@@ -1,6 +1,20 @@
 version: '3.1'
 services:
+
+  nginx-proxy:
+    container_name: nginx-proxy
+    image: jwilder/nginx-proxy
+    ports:
+      - "80:80"
+    volumes:
+      - /var/run/docker.sock:/tmp/docker.sock:ro
+
   website:
     environment:
       - GIN_MODE=release
-      - VIRTUAL_HOST=voxowl.particubes.comdev
+      - VIRTUAL_HOST=voxowl.com
+
+networks:
+  default:
+    external:
+      name: websites
