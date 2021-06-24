@@ -17,16 +17,16 @@ Particubes is made by Voxowl. Here is the Voxowl team working on Particubes with
 With Gaëtan, he has founded Voxowl. Together, they had the idea of creating this cubic and fun ongoing project!
 
 ### Gaëtan “gdevillele” - Co-founder and game & tools development
-Create and maintain tools that would help the Voxowl team and ensures those tools 
+Create and maintain tools that would help the Voxowl team working in the best conditions.
 
 ### Claire - Marketing & Communication
 She makes sure that everybody hears about Particubes, gets along with each other within the community and she is the messenger for minor or major updates!
 
 ### Xavier “xavierl” - Dev scripting
-Makes sure the code you write works as expected and provides awesome tools for the coders to easily make stunning games!
+His role is to make sure the code you write works as expected and provides awesome tools for the coders to make stunning games easily!
 
 ### Axel “Truffe” - Dev networking
-His role is to connect players to the server so they can play Particubes as a multiplayer game seamlessly and with the lowest latency possible.
+His role is to connect players to the server so they can play Particubes in multiplayer mode seamlessly and with the lowest latency possible.
 
 ### Arthur “Petroglyph” - Dev engine
 He works on the cogs & wheels that make your worlds tick, and your colorful scenes to be drawn into view. Made with love and care!
